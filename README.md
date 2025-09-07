@@ -1,4 +1,5 @@
-# The Alando Exchange (Amplifying Learning and Nurturing Diverse Opportunities)
+# The Alando Exchange 
+#(Amplifying Learning and Nurturing Diverse Opportunities)
 This is the repository for the The Alando Exchange Initiative. 
 
 Website: alandoexchange.com
